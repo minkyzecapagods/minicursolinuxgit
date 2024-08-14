@@ -1,0 +1,4 @@
+1: Baixar o arquivo .tar do Discord pelo site;
+2: Descompactar o arquivo com tar -xf discord-0.0.64.tar.gz;
+3: Mover a pasta para o home com mv Discord ~/Discord;
+4: Adicionar a pasta do Discord ao path com export PATH=$PATH:$HOME/Discord.
