@@ -1,0 +1,4 @@
+-1: Baixar o arquivo;
+-2: Descompactar o arquivo unzip <nome-do-arquivo>;
+-3: Mover essa pasta para a home numa nova pasta chamada yazi com o comando mv Downloads/yazi-x86_64-unknown-linux-gnu ~/yazi;
+-4: Adicionar a pasta criada ao path com export PATH=$PATH:$HOME/yazi.
